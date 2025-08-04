@@ -34,7 +34,7 @@ Forecast accuracy was assessed using RMSE, MAE, and visual checks for fit and re
 ## Recognition
 
 - Scenario 5 selected as a winning forecast
-- Recipient of the Time Series and Forecasting Award from the Business and Industrial Statistics Research Group (BISRG)
+- Recipient of the [Time Series and Forecasting Award from the Business and Industrial Statistics Research Group (BISRG)](https://uwaterloo.ca/business-and-industrial-statistics-research-group/industrial-statistics-awards)
 
 ---
 
