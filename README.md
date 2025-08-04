@@ -8,11 +8,11 @@ Scenario 5 (Pollution Forecasting) was selected as a winning submission. I used 
 
 ## Files
 
-- `Model_Fitting_Scen1.R` — Scenario 1
-- `Model_Fitting_Scen2.R` — Scenario 2
-- `Model_Fitting_Scen3.R` — Scenario 3
-- `Model_Fitting_Scen4.R` — Scenario 4
-- `Model_Fitting_Scen5.R` — Scenario 5 (Pollution)
+- `Model_Fitting_Scen1.R` — Hydrological Forecast
+- `Model_Fitting_Scen2.R` — Financial Risk Forecast
+- `Model_Fitting_Scen3.R` — Imputation
+- `Model_Fitting_Scen4.R` — Multivariate Time Series
+- `Model_Fitting_Scen5.R` — Long Range Pollution Forecast
 - `report.pdf` — Full write-up summarizing methods and results
 
 ---
