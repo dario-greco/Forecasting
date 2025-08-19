@@ -1,6 +1,6 @@
 # Forecasting Challenge
 
-This repository includes my submission to a graduate forecasting competition held at UW. The task involved developing forecasting models for five different real-world time series. Each scenario posed unique challenges in modeling, data exploration, and evaluation.
+This repository includes my submission to a graduate forecasting competition held at UW. The task involved developing forecasting models for five different real-world time series. Each scenario posed unique challenges in time series modelling and validation.
 
 Scenario 5 (Pollution Forecasting) was selected as a winning submission. I used dynamic harmonic regression to capture complex seasonal patterns, supported by diagnostics and visualizations.
 
