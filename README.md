@@ -19,7 +19,7 @@ Scenario 5 (Pollution Forecasting) was selected as a winning submission. I used 
 
 ## Methods & Tools
 
-Most of the work was done in R using packages like `fpp3`, `forecast`, and `ggplot2`. Techniques include:
+Most of the work here was done in R using the wonderful package `fpp3` from Rob Hyndman and friends. Techniques include:
 
 - SARIMA, SARIMAX
 - ARMA-GARCH
@@ -27,15 +27,15 @@ Most of the work was done in R using packages like `fpp3`, `forecast`, and `ggpl
 - Dynamic harmonic regression
 - Cross-validation for model tuning
 
-Forecast accuracy was assessed using RMSE, MAE, and visual checks for fit and residuals.
+Forecast accuracy was assessed using RMSE, MAE, and visual checks for fit and residuals. I relied heavily on the following book (again from Mr. Hyndman): https://otexts.com/fpp3/
 
 ---
 
-## Recognition
+## Results
 
 - Scenario 5 selected as a winning forecast
 - Recipient of the [Time Series and Forecasting Award from the Business and Industrial Statistics Research Group (BISRG)](https://uwaterloo.ca/business-and-industrial-statistics-research-group/industrial-statistics-awards)
 
 ---
 
-Feel free to explore the code or report for details on the models and results.
+Feel free to explore the code and reach out if you have any questions!
