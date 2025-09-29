@@ -1,6 +1,6 @@
 # Forecasting Challenge
 
-This repository includes my submission to a graduate forecasting competition held at UW. The task involved developing forecasting models for five different real-world time series. Each scenario posed unique challenges in time series modelling and validation.
+This repository includes my submission to a graduate forecasting competition held at UW. The task involved developing forecasting models for five different real-world time series. Each scenario was a unique challenges in time series modelling.
 
 Scenario 5 (Pollution Forecasting) was selected as a winning submission. I used dynamic harmonic regression (mostly) to capture complex seasonal patterns.
 
@@ -17,7 +17,7 @@ Scenario 5 (Pollution Forecasting) was selected as a winning submission. I used 
 
 ---
 
-## Methods & Tools
+## Methods
 
 Most of the work here was done in R using the wonderful package `fpp3` from Rob Hyndman and friends. Techniques include:
 
